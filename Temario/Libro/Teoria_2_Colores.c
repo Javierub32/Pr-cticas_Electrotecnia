@@ -21,5 +21,5 @@ int main() {
 */
 
 /*
-cls --> Limpia la terminal
+cls --> Limpia la terminal.
 */
