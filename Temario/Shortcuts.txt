@@ -43,5 +43,5 @@ Snippets: {
 
     System Call --> Plantilla
     sf --> Scanf
-    pf --> Print 
+    pf --> Printf
 }
