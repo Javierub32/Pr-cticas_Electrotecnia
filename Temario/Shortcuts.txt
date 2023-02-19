@@ -1,7 +1,47 @@
 Ctr + Ñ --> Abrir terminal
 cls --> Limpiar terminal
 Ctr + Shift + P + "CodeSnap" --> Captura de pantalla
-Ctrl + Mayús+ flecha abajo --> Seleccionar una línea
 
 g++ programa.c -o ejecutable
 ./ejecutable.exe
+
+Seleccionar texto: {
+    
+    Shift + Flechas --> Seleccionas letras
+    Alt + Flechas --> Mover lineas
+    Ctrl + ç --> Poner comentario
+    Shift + Alt + A --> Comentar seleccion 
+    Ctrl + Flechas --> Moverte entre palabras
+    Ctrl + Mayus + Flechas --> Seleccionar lineas/palabras
+}
+
+
+Moverse en el explorador: {
+
+    Ctrl + B --> Abrir Explorador
+    Crtl + Shift + E --> Centrarte en el explorador
+    Espacio --> Abrir archivo
+    Ctrl + B --> Cerrar explorador  
+
+    Ctrl + P --> Moverte entre tus archivos
+}
+
+Acciones en el explorador: {
+    (Centrado en el explorador)
+
+    A --> Crear nuevo archivo
+    C --> Colapsar carpetas
+}
+
+Cambiar Explorador - Git : {
+
+    Ctrl + Shift + E --> Explorador
+    Ctrl + Shift + G --> Git
+}
+
+Snippets: {
+
+    System Call --> Plantilla
+    sf --> Scanf
+    pf --> Print 
+}
